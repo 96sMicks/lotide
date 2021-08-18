@@ -29,6 +29,6 @@ const without = function(arr, arr2) {
     }
   }
   return newArr;
-}
+};
 
 console.log(without([1, 2, 3, 5, 7], [2, 5]));
