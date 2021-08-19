@@ -42,3 +42,4 @@ const letterPositions = function(sentence) {
 };
 
 console.log(letterPositions("hello"));
+console.log(letterPositions("Hey how you doing"));
